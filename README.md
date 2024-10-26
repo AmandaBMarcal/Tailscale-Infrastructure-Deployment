@@ -16,14 +16,9 @@ This repository contains the infrastructure-as-code implementation for creating 
 
 ## Setup Instructions
 
-1. Clone this repository
-2. Set up your Tailscale API key and Tailnet name in `terraform.tfvars`
-3. Run `terraform init`
-4. Run `terraform apply`
-
-## Architecture
-
-
+1. Set up your Tailscale API key and Tailnet name in `terraform.tfvars`
+2. Run `terraform init`
+3. Run `terraform apply`
 
 ## Tailnet Information
 
